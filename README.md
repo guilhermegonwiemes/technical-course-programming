@@ -1,15 +1,13 @@
-# Programação — Curso Técnico em Desenvolvimento de Sistemas
+# Programming — Technical Course in Systems Development
 
-Repositório com projetos e exercícios desenvolvidos durante o curso
-técnico, incluindo atividades propostas em aula e projetos práticos
-das disciplinas.
+Repository with projects and exercises developed during the technical
+course, including classroom activities and practical projects.
 
-## Projetos
+## Projects
 
-### Máquina ATM (Python)
-Projeto desenvolvido em Python durante o curso técnico como primeiro
-contato prático com a linguagem. Simula as operações de um caixa
-eletrônico: login com limite de tentativas, consulta de saldo,
-depósito, saque com limite diário e distribuição automática de cédulas.
-
-**Ferramenta:** Python
+###  ATM Machine (Python)
+Project developed in Python during the technical course as a first
+practical introduction to the language. Simulates the operations of
+an ATM: login with attempt limit, balance inquiry, deposit, withdrawal
+with daily limit and automatic bill distribution.
+**Tool:** Python
